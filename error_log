@@ -1,0 +1,6 @@
+[01-Jan-2019 16:32:13 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/brqtfdcv/public_html/app/Http/Controllers/StationsController.php on line 3
+[01-Jan-2019 16:32:24 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/brqtfdcv/public_html/app/Http/Controllers/StationsController.php on line 3
+[01-Jan-2019 16:33:04 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/brqtfdcv/public_html/app/Http/Controllers/StationsController.php on line 3
+[07-Jan-2019 11:57:00 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/mapra63z/public_html/ituneon/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+[07-Jan-2019 11:57:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/mapra63z/public_html/ituneon/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+[07-Jan-2019 11:59:04 Etc/GMT] PHP Parse error:  syntax error, unexpected '=' in /home/mapra63z/public_html/ituneon/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
